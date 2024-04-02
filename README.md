@@ -1,5 +1,9 @@
 # trabajo_practico
 
+# Credentials:
+USER: prueba@gmail.com
+PASSWORD: 123
+
 A new Flutter project.
 
 ## Getting Started
